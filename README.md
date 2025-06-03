@@ -1,8 +1,13 @@
 # Indifferentially Private Dark Pool Auctions
 
+[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)
+
+
+This repository accompanies the paper ***Indifferential Privacy: A New Paradigm and Its Applications to Optimal Matching in Dark Pool Auctions*** ([ArXiv](https://arxiv.org/abs/2502.13415)), as presented at **AAMAS 2025**. 
 This implementations includes two protocols for dark pool auctions: Non-Private and Indifferentially Private. We introduce a new system based on 
 Indifferential privacy (where a user is indifferent to whether certain information is revealed after some special event) combined with lightweight encryption, 
 offering an efficient and practical solution that mitigates the risks of an untrustworthy auctioneer. 
+
 
 
 WARNING: This is an academic proof-of-concept prototype and is not production-ready.
