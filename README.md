@@ -1,6 +1,6 @@
 # Indifferentially Private Dark Pool Auctions
 
-[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)
+[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.org)
 
 
 This repository accompanies the paper ***Indifferential Privacy: A New Paradigm and Its Applications to Optimal Matching in Dark Pool Auctions*** ([ArXiv](https://arxiv.org/abs/2502.13415)), as presented at **AAMAS 2025**. 
