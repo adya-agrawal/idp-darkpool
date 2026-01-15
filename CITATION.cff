@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite it as below."
+authors:
+- family-names: "Polychroniadou"
+  given-names: "Antigoni"
+  orcid: "https://orcid.org/0009-0003-0125-2971"
+- family-names: "Chan"
+  given-names: "T-H. Hubert"
+  orcid: "https://orcid.org/0000-0002-8340-235X"
+- family-names: "Agrawal"
+  given-names: "Adya"
+  orcid: "https://orcid.org/0009-0004-1863-0331"
+title: "Indifferential Privacy: A New Paradigm and Its Applications to Optimal Matching in Dark Pool Auctions"
+doi: 10.48550/arXiv.2502.13415
+date-released: 2025-02-19
+url= "https://arxiv.org/abs/2502.13415"
+preferred-citation:
+  type: inproceedings
+  authors:
+  - family-names: "Polychroniadou"
+  given-names: "Antigoni"
+  orcid: "https://orcid.org/0009-0003-0125-2971"
+  - family-names: "Chan"
+    given-names: "T-H. Hubert"
+    orcid: "https://orcid.org/0000-0002-8340-235X"
+  - family-names: "Agrawal"
+    given-names: "Adya"
+    orcid: "https://orcid.org/0009-0004-1863-0331"
+  doi: 10.48550/arXiv.2502.13415
+  url: "https://arxiv.org/abs/2502.13415"
+  collection-title: "24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)"
